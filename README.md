@@ -6,11 +6,11 @@ that I have created or contributed to over the past few years.
     * **Description**: a virtual machine for quickly creating interactive Shiny
       apps for R.
     * **Category**: DevOps, R
-* [iPython OLS, Ridge, Lasso, Elastic Net regression](ipython_notebooks/Regression.ipynb)
+* [iPython: OLS, Ridge, Lasso, Elastic Net regression](ipython_notebooks/Regression.ipynb)
     * **Description**: performing various regressions and making residual, MSPE,
       pairwise scatter, and QQ plots in iPython.
     * **Category**: regression, plotting, iPython
-* [iPython PCA & PCR](ipython_notebooks/PCA_and_PCR.ipynb)
+* [iPython: PCA & PCR](ipython_notebooks/PCA_and_PCR.ipynb)
     * **Description**: demonstration of PCA on images and data, and recovering
       beta coefficients after principle components regression.
     * **Category**: PCA, PCR, iPython
