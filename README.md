@@ -36,8 +36,8 @@ that I have created or contributed to over the past few years.
     * **Description**: creates a VM and loads the popular MIMIC II clinical data
       set into a Postgres DB on the VM.
     * **Category**: DevOps, PostgreSQL
-* [EHRcorral](https://github.com/nsh87/ehrcorral) an open source
-    * **Description**: Python package for probabilistically matching
-      same-patient electronic medical records using lexical analysis, phonemic
-      compression, field weighting.
+* [EHRcorral](https://github.com/nsh87/ehrcorral)
+    * **Description**: an open sourcePython package for probabilistically
+      matching same-patient electronic medical records using lexical analysis,
+      phonemic compression, field weighting.
     * **Category**: Python
