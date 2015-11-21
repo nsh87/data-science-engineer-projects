@@ -10,3 +10,6 @@ that I have created or contributed to over the past few years.
 * [iPython PCA & PCR](ipython_notebooks/PCA_and_PCR.ipynb) (iPython):
   demonstration of PCA on images and data, and recovering beta coefficients
   after principle components regression.
+* [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
+  (R, R markdown): a fun report and exploration of literate programming with R
+  markdown
