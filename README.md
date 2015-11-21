@@ -13,9 +13,13 @@ that I have created or contributed to over the past few years.
 * [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
   (R, R markdown): a fun report and exploration of literate programming with R
   markdown.
+* [ReceptorMarker website](http://receptormarker.com) (Python, Django, Celery,
+  DevOps, R, DBs): a website for high-dimensionality cluster, PCA, sequence
+  analysis, and visualization of immunological data, backed by a $50K grant from
+  the Gates Foundation.
 * [receptormarker](https://github.com/nsh87/receptormarker) (R):
   an open source R package I created for analyzing and visualizing immunological
-  data, which also backs [receptormarker.com](http://receptormarker.com).
+  data, which also backs receptormarker.com.
 * [ReceptorMarkerBackend(https://github.com/nsh87/ReceptorMarkerBackend)
   (DevOps, R, Rserve): the analytical server which hosts the `receptormarker`
   package for receptormarker.com (the frontend is Django-based, but is a private
