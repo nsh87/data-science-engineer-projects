@@ -12,4 +12,16 @@ that I have created or contributed to over the past few years.
   after principle components regression.
 * [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
   (R, R markdown): a fun report and exploration of literate programming with R
-  markdown
+  markdown.
+* [receptormarker](https://github.com/nsh87/receptormarker) (R):
+  an open source R package I created for analyzing and visualizing immunological
+  data, which also backs [receptormarker.com](http://receptormarker.com).
+* [ReceptorMarkerBackend(https://github.com/nsh87/ReceptorMarkerBackend)
+  (DevOps, R, Rserve): the analytical server which hosts the `receptormarker`
+  package for receptormarker.com (the frontend is Django-based, but is a private
+  repository).
+* [MIMIC II VM](DevOps, PostgreSQL): creates a VM and loads the popular MIMIC II
+  clinical data set into a Postgres DB on the VM.
+* [EHRcorral](https://github.com/nsh87/ehrcorral) (Python): an open source
+  Python package for probabilistically matching same-patient electronic medical
+  records using lexical analysis, phonemic compression, field weighting.
