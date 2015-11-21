@@ -7,16 +7,23 @@ that I have created or contributed to over the past few years.
       apps for R.
     * **Category**: DevOps, R
 * [iPython: OLS, Ridge, Lasso, Elastic Net regression](ipython_notebooks/Regression.ipynb)
-    * **Description**: performing various regressions and making residual, MSPE,
-      pairwise scatter, and QQ plots in iPython.
+    * **Description**: performing various regressions and making residual,
+      MSPE, pairwise scatter, and QQ plots in iPython.
     * **Category**: regression, plotting, iPython
 * [iPython: PCA & PCR](ipython_notebooks/PCA_and_PCR.ipynb)
     * **Description**: demonstration of PCA on images and data, and recovering
       beta coefficients after principle components regression.
     * **Category**: PCA, PCR, iPython
+* [Exploratory Analysis: Loan Data](pdfs/loan_analysis.pdf)
+    * **Description**: exploratory analysis and plots of loan data and credit
+      scores knitted to a PDF.
+    * **Category**: R, R markdown, geospatial plots, ggplot2
+    * **Related**: [geo_plots.R](pdfs/geo_plots.R),
+      [stats_plots.R](pdfs/stats_plots.R),
+      [loan_analysis.Rmd](pdfs/loan_analysis.Rmd)
 * [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
-    * **Description**: a fun report and exploration of literate programming with
-      R markdown.
+    * **Description**: a fun report and exploration of literate programming
+      with R markdown.
     * **Category**: R, R markdown
 * [ReceptorMarker website](http://receptormarker.com)
     * **Description**: a website for high-dimensionality cluster, PCA, sequence
