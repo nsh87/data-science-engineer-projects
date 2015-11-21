@@ -20,7 +20,7 @@ that I have created or contributed to over the past few years.
     * **Category**: R, R markdown, geospatial plots, ggplot2
     * **Related**: [geo_plots.R](pdfs/geo_plots.R),
       [stats_plots.R](pdfs/stats_plots.R)
-* [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
+* [The Effect of Alcohol on Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
     * **Description**: a fun report and exploration of literate programming
       with R markdown.
     * **Category**: R, R markdown
