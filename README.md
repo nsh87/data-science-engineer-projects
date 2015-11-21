@@ -20,12 +20,13 @@ that I have created or contributed to over the past few years.
 * [receptormarker](https://github.com/nsh87/receptormarker) (R):
   an open source R package I created for analyzing and visualizing immunological
   data, which also backs receptormarker.com.
-* [ReceptorMarkerBackend(https://github.com/nsh87/ReceptorMarkerBackend)
+* [ReceptorMarkerBackend](https://github.com/nsh87/ReceptorMarkerBackend)
   (DevOps, R, Rserve): the analytical server which hosts the `receptormarker`
   package for receptormarker.com (the frontend is Django-based, but is a private
   repository).
-* [MIMIC II VM](DevOps, PostgreSQL): creates a VM and loads the popular MIMIC II
-  clinical data set into a Postgres DB on the VM.
+* [MIMIC II VM](https://github.com/nsh87/mimic-ii-vm) (DevOps, PostgreSQL):
+  creates a VM and loads the popular MIMIC II clinical data set into a Postgres
+  DB on the VM.
 * [EHRcorral](https://github.com/nsh87/ehrcorral) (Python): an open source
   Python package for probabilistically matching same-patient electronic medical
   records using lexical analysis, phonemic compression, field weighting.
