@@ -19,8 +19,7 @@ that I have created or contributed to over the past few years.
       scores knitted to a PDF.
     * **Category**: R, R markdown, geospatial plots, ggplot2
     * **Related**: [geo_plots.R](pdfs/geo_plots.R),
-      [stats_plots.R](pdfs/stats_plots.R),
-      [loan_analysis.Rmd](pdfs/loan_analysis.Rmd)
+      [stats_plots.R](pdfs/stats_plots.R)
 * [The Effect of Alcohol Hydration, by Weight](pdfs/Effect_of_Alcohol_on_Hydration.pdf)
     * **Description**: a fun report and exploration of literate programming
       with R markdown.
