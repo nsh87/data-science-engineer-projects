@@ -14,6 +14,11 @@ that I have created or contributed to over the past few years.
     * **Description**: demonstration of PCA on images and data, and recovering
       beta coefficients after principle components regression.
     * **Category**: PCA, PCR, iPython
+* [Regressors](http://regressors.readthedocs.org/en/latest/)
+    * **Description**: an open source Python package that adds some utility
+      functions for getting stats and creating plots with scikit-learn
+      regression classes.
+    * **Category**: Python, regression
 * [Exploratory Analysis: Loan Data](pdfs/loan_analysis.pdf)
     * **Description**: exploratory analysis and plots of loan data and credit
       scores knitted to a PDF.
@@ -43,7 +48,7 @@ that I have created or contributed to over the past few years.
       set into a Postgres DB on the VM.
     * **Category**: DevOps, PostgreSQL
 * [EHRcorral](https://github.com/nsh87/ehrcorral)
-    * **Description**: an open sourcePython package for probabilistically
+    * **Description**: an open source Python package for probabilistically
       matching same-patient electronic medical records using lexical analysis,
       phonemic compression, field weighting.
     * **Category**: Python
