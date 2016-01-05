@@ -12,7 +12,7 @@ that I have created or contributed to over the past few years.
     * **Category**: regression, plotting, iPython
 * [iPython: PCA & PCR](ipython_notebooks/PCA_and_PCR.ipynb)
     * **Description**: demonstration of PCA on images and data, and recovering
-      beta coefficients after principle components regression.
+      beta coefficients after principal components regression.
     * **Category**: PCA, PCR, iPython
 * [Regressors](http://regressors.readthedocs.org/en/latest/)
     * **Description**: an open source Python package that adds some utility
