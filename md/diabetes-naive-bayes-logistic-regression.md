@@ -1,7 +1,7 @@
 
 # Diabetes Classification Using NB & Logistic Regression
 
-Using several synthetic data sets we will explore the use of Naive Bayes and Logistic Regression to classify diabetes patients. These data sets containing measurements of A1C score (a measure of blood glucose levels) and weight, as well as labels for diabetec or non-diabetec patients.
+Using several synthetic data sets we will explore the use of Naive Bayes and Logistic Regression to classify diabetes patients. These data sets containing measurements of A1C score (a measure of blood glucose levels) and weight, as well as labels for diabetic or non-diabetic patients.
 
 ## Exploratory Analysis
 
@@ -32,7 +32,7 @@ print data0[1:3, ]
      [ 145.06291617    4.57858442    0.        ]]
 
 
-The data contains weight in the first column, A1C score in the second column, and 0 or 1 to indicate if the patient is non-diabetic or diabetec, respectively, in the third column.
+The data contains weight in the first column, A1C score in the second column, and 0 or 1 to indicate if the patient is non-diabetic or diabetic, respectively, in the third column.
 
 
 ```python
