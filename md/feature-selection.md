@@ -1,7 +1,7 @@
 
 # Feature Selection Using Chi<sup>2</sup> & Random Forest
 
-Here we explore the use feature selection using Chi<sup>2</sup> and Random Forests in scikit-learn. Chi<sup>2</sup> is a univariate statistical measure that evaluates the correlation between two variables, or the effect of one variable on another. We will leverage the feature importances returned by scikit-learn's Random Forest models to perform an additional feature selection, as well. We will compare feature-selected classification results with no feature selection results and PCA coupled with model fitting.
+Here we explore the use of feature selection using Chi<sup>2</sup> and Random Forests in scikit-learn. Chi<sup>2</sup> is a univariate statistical measure that evaluates the correlation between two variables, or the effect of one variable on another. We will leverage the feature importances returned by scikit-learn's Random Forest models to perform an additional feature selection, as well. We will compare feature-selected classification results with no feature selection results and PCA coupled with model fitting.
 
 What follows is a very "buck-shot" and brute approach to classification, and a superficial approach to feature selection. It is simply intended to demonstrate how exploratory analysis, stats, and even machine learning models can be used to perform feature selection. There are many more feature selection methods that can and often should be used for classification.
 
